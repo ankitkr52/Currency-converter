@@ -1,0 +1,9 @@
+# API keys aur sensitive files
+
+config.js
+
+# Common unnecessary files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
